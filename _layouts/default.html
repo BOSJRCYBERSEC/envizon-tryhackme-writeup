@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>{{ page.title | default: site.title }}</title>
+
+  <!-- ✅ CSS centralisé -->
+  <link rel="stylesheet" href="https://bosjrcybersec.github.io/css/style.css">
+
+  {% seo %}
+</head>
+<body>
+  <main class="container">
+    {{ content }}
+  </main>
+</body>
+</html>
