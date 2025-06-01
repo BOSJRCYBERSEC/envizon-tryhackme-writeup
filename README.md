@@ -1,5 +1,11 @@
-# tryhackme-writeup-template
-Dépôt modèle TryHackMe Write-Up
+# envizon-tryhackme-writeup
+Writeup envizon with Vulnerabilities Identified and Best practices (English and French Versions)
+
+# 🔍 Envizon – TryHackMe Write-Up
+
+📄 [View/voir the write-up (index.md)](./index.md)  
+🌐 [TryHackMe Room – Envizon](https://tryhackme.com/room/envizon)
+
 
 ## 📑 Table of Contents / Sommaire
 
@@ -21,23 +27,22 @@ Welcome
 
 ---
 
-## 🗂️ Structure of Each Write-up / Structure de chaque write-up
+## 🗂️ Structure of Each Write-up
 
-- 🧩 Challenge overview / Présentation du challenge  
-- 🔍 Code or binary analysis / Analyse de code ou binaire  
-- ⚙️ Exploitation strategy / Stratégie d’exploitation  
-- 🧬 Payload breakdown / Détail du payload  
-- 🛡️ Defensive countermeasures / Contremesures défensives  
-- 📚 References & credits / Références et crédits  
+- 🧩 Challenge overview
+- 🔍 Code or binary analysis
+- ⚙️ Exploitation strategy
+- 🧬 Payload breakdown
+- 🛡️ Defensive countermeasures
+- 📚 References & credits
 
 ---
 
-## 📚 Suggested Readings / Lectures Recommandées
+## 📚 Suggested Readings
 
 - *Hacking: The Art of Exploitation* – Jon Erickson  
 - *Metasploit – The Penetration Tester’s Guide* – David Kennedy et al.  
 - *Blue Team Field Manual (BTFM)* – Alan J. White & Ben Clark  
-
 
 ---
 
@@ -69,7 +74,18 @@ Chaque write-up est structuré pour être à la fois **technique** et **pédagog
 
 ---
 
-Lectures Recommandées
+## 🗂️ Structure de chaque write-up
+
+- 🧩 Présentation du challenge  
+- 🔍 Analyse de code ou binaire  
+- ⚙️ Stratégie d’exploitation  
+- 🧬 Détail du payload  
+- 🛡️ Contremesures défensives  
+- 📚 Références et crédits  
+
+---
+
+## 📚 Lectures Recommandées
 
 - *Hacking: The Art of Exploitation* – Jon Erickson  
 - *Metasploit – The Penetration Tester’s Guide* – David Kennedy et al.  
